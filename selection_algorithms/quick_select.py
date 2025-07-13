@@ -57,4 +57,4 @@ class QuickSelect:
 
 x = [1,2,-5,10,100,-7,3,4]
 select = QuickSelect(x)
-print(select.run(5))
+print(select.run(1))
